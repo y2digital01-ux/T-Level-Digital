@@ -1,0 +1,11 @@
+Customer actions
+-	User can browse, select product, select delivery or collection, complain, report, and leave a review
+-	User can change email, name, and password
+-	User can delete account
+-	User can opt in to producer features
+-	User can contact site through /contact
+Producer actions
+-	User can do the same as in customer actions
+-	User can create, edit, and delete a product that they own through the site
+System behaviour
+-	User can navigate through the site with ease and intuition
