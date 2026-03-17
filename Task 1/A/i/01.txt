@@ -1,0 +1,9 @@
+how hardware and software are used within the context of the industry
+
+Industries use hardware for things like servers, workstations, networking devices, sensor, controllers/machinery, etcetera.
+An IoT sensor is heavily used as it detects changes in the physical environments and transmits that data to connected systems via internet. It can be used for things like scanning barcodes.
+Servers and network infrastructure can be used for things like storing, managing, and accessing data securely in real-time. Streamlining processes such as inventory management, payment, and customer relationship management (CRM.)
+High-quality hardware ensures performance, reliability, and scalability.
+
+Software provides the visualisation and functionality for the hardware. Including operating systems, applications, management software, and specialised industrial programs.
+The software analyses data from sensors and other hardware equipment, as well as predicting maintenance to prevent downtime.
