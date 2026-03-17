@@ -1,0 +1,15 @@
+Authentication
+Research how to get an automated email address to send a one-time 6-digit code to the user’s email address to verify authentication login.
+
+Product catalogue
+Create a system that allows the user to sort the catalogue by all-time most popular, alphabetical order, and date of creation. Allow the user to choose the order to ascend or descend.
+
+Order system
+.
+
+Payment system
+Create a system that allows the user to enter their bank details when purchasing for the first time. Allow them to store their bank details without having to purchase anything first (through settings.)
+Explore possible payment option integration such as PayPal.
+
+Stock system
+.
