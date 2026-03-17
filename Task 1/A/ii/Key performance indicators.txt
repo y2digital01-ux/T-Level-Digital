@@ -1,0 +1,4 @@
+-	Pages load in under 3 seconds
+-	System uptime is 99%
+-	Orders process within a few minutes
+-	User satisfaction is 90% 5 star reviews
