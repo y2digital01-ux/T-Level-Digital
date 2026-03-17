@@ -1,0 +1,24 @@
+Functional
+Register/login
+-	User must be able to sign up with an email, name, and password
+-	User must be able to login with just an email and password
+Product
+-	User must be able to view products with visible pricing and stock availability 
+-	User must be able to place an order for a product, and choose the type of order (collection, delivery)
+Purchase
+-	User must be able to view order history, and view the status of any live order
+-	User must be able to select a scheduled time and date before submitting their order, adding a price for the schedule if necessary.
+Account
+-	User must be able to manage their account - change email/name, reset password, and delete account 
+-	User must be able to toggle an option in settings that allows them to become a producer as well as a customer
+
+Non-functional
+Performance
+-	Each page must load in under 5 seconds
+-	Handle multiple users simultaneously
+Navigation
+-	Users must be able to navigate through the website with ease and minimal lag
+-	The site should display clear layouts/icons/images/menus that are intuitive
+Security
+-	User passwords must be encrypted and stored securely
+-	The site must prevent unauthorized access and protect user data
