@@ -1,0 +1,20 @@
+/
+ - landing page
+/home
+/register
+/login
+/store
+ - browsing products
+/product ID=X
+ - viewing a specific product by ID
+ /product ID=X edit
+  - an edit page accessible the producer of the product
+/account
+ - account settings
+/history
+ - order history
+/dashboard
+ - producer dashboard: view products they made, allow to manage stock levels was well as edit details, and orders made by other people buying their products
+
+/about
+/contact
