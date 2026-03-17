@@ -1,0 +1,11 @@
+how digital solutions could be used to meet different user needs
+
+Understanding user needs
+> to understand abide by user needs, organisations understand their users through research, feedback, and testing.
+> identifying user goals, pain points, preferences. characteristics such as age, technical skills, and accessibility requirements.
+
+Personalisation and accessibility
+> enabling personalised experiences by adapting content, interfaces, and recommendations based on user behaviour and previous interactions, which is where cookies is often involved.
+
+Adapting to new technology
+> adapting to new technology such as AI, AR/VR, organisations can use these to give customers and consumers a more immersive and enhanced customer experience.
